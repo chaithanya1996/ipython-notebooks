@@ -1,6 +1,8 @@
 ipython-notebooks
 ========================
 
+<a href="https://notebooks.azure.com/import/gh/jdwittenauer/ipython-notebooks"><img src="https://notebooks.azure.com/launch.png" /></a>
+
 This repo contains various IPython notebooks I've created to experiment with libraries and work through exercises, and explore subjects that I find interesting.  I've included notebook viewer links below.  Click the link to see a live rendering of the notebook.
 
 #### Language
@@ -71,4 +73,7 @@ Notebooks covering various interesting topics!
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/misc/TimeSeriesStockAnalysis.ipynb">A Simple Time Series Analysis of the S&P 500 Index</a><br/>
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/misc/ProbablisticProgramming.ipynb">An Intro To Probablistic Programming</a><br/>
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/misc/LanguageVectors.ipynb">Language Exploration Using Vector Space Models</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/misc/DynamicProgramming.ipynb">Solving Problems With Dynamic Programming</a>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/misc/DynamicProgramming.ipynb">Solving Problems With Dynamic Programming</a><br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/misc/ProphetForecasting.ipynb">Time Series Forecasting With Prophet</a><br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/misc/MarkovChains.ipynb">Markov Chains From Scratch</a><br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/misc/MonteCarlo.ipynb">A Sampling Of Monte Carlo Methods</a>
